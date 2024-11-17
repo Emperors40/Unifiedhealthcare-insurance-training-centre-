@@ -1,0 +1,29 @@
+{
+  "name": "hasp",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.0.0",
+    "@react-three/fiber": "^8.0.0",
+    "lucide-react": "^0.0.0",
+    "next": "^12.0.0",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "recharts": "^2.0.0",
+    "three": "^0.137.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.0",
+    "@types/react": "^17.0.0",
+    "autoprefixer": "^10.0.0",
+    "postcss": "^8.0.0",
+    "tailwindcss": "^3.0.0",
+    "typescript": "^4.0.0"
+  }
+}
